@@ -3,3 +3,6 @@ C:\Users\<your_username>\AppData\LocalLow\Sebastian Lague\Digital Logic Sim\Save
 or
 ~/.config/unity3d/Sebastian Lague/Digital Logic Sim/
 (i think)
+
+GAME LINK
+https://sebastian.itch.io/digital-logic-sim
